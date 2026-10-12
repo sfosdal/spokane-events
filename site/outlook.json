@@ -1,0 +1,11 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "chiefs": "The Chiefs' WHL season runs late September to March at the Arena, 34 home dates, with the playoffs beyond that for the top eight in the Western Conference.",
+  "indians": "The Indians' Northwest League season runs early April to September at Avista Stadium, 66 home dates; the schedule above fills in once the league publishes it over the winter.",
+  "velocity": "Velocity's USL League One season runs March to October at ONE Spokane Stadium, 15 home matches, with the playoffs through November; the fixture list arrives over the winter.",
+  "gonzaga": "The Zags' season runs November to March at the Kennel, with the WCC tournament in Las Vegas and the NCAA tournament beyond that; the non-conference schedule is announced in late summer.",
+  "eagles": "The Eagles' Big Sky season runs late August to November on the red turf at Roos Field in Cheney, five or six home dates, with the FCS playoffs beyond that.",
+  "seahawks": "The Seahawks' season runs September to January at Lumen Field in Seattle, with the playoffs beyond that; flex-week kickoffs fill in above as the league confirms them.",
+  "mariners": "Spring training opens in Peoria in February and the regular season in late March at T-Mobile Park in Seattle; the schedule above fills in once MLB publishes it.",
+  "kraken": "The Kraken's season runs October to April at Climate Pledge Arena in Seattle, 41 home dates, with the playoffs beyond that for the top eight in the Western Conference."
+}

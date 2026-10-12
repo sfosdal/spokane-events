@@ -1,0 +1,221 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11 for Spokane; the NFL and MLB rounds are the leagues' published 2026 dates, the rest the usual calendar.",
+ "chiefs": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "WHL Playoffs, first round",
+    "start": "2027-03-26",
+    "end": "2027-04-06",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-04-08",
+    "end": "2027-04-20",
+    "tbd": true
+   },
+   {
+    "name": "Western Conference Championship",
+    "start": "2027-04-22",
+    "end": "2027-05-04",
+    "tbd": true
+   },
+   {
+    "name": "WHL Championship",
+    "start": "2027-05-06",
+    "end": "2027-05-18",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "indians": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Northwest League Championship Series",
+    "start": "2026-09-15",
+    "end": "2026-09-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "velocity": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "USL League One Playoffs, quarterfinals",
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "tbd": true
+   },
+   {
+    "name": "League One Final",
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "gonzaga": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "WCC Tournament",
+    "start": "2027-03-04",
+    "end": "2027-03-09",
+    "site": "Orleans Arena, Las Vegas",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first weekend",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Sweet Sixteen and Elite Eight",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "site": "Ford Field, Detroit",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "eagles": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "FCS Playoffs, first round",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true
+   },
+   {
+    "name": "Quarterfinals",
+    "start": "2026-12-12",
+    "end": "2026-12-12",
+    "tbd": true
+   },
+   {
+    "name": "Semifinals",
+    "start": "2026-12-19",
+    "end": "2026-12-19",
+    "tbd": true
+   },
+   {
+    "name": "FCS Championship",
+    "start": "2027-01-04",
+    "end": "2027-01-04",
+    "site": "Toyota Stadium, Frisco",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "seahawks": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2027-01-16",
+    "end": "2027-01-18"
+   },
+   {
+    "name": "Divisional",
+    "start": "2027-01-23",
+    "end": "2027-01-24"
+   },
+   {
+    "name": "NFC Championship",
+    "start": "2027-01-31",
+    "end": "2027-01-31"
+   },
+   {
+    "name": "Super Bowl LXI",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "site": "SoFi Stadium, Inglewood",
+    "final": true
+   }
+  ]
+ },
+ "mariners": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card Series",
+    "start": "2026-09-29",
+    "end": "2026-10-01"
+   },
+   {
+    "name": "Division Series",
+    "start": "2026-10-03",
+    "end": "2026-10-10"
+   },
+   {
+    "name": "ALCS",
+    "start": "2026-10-12",
+    "end": "2026-10-20"
+   },
+   {
+    "name": "World Series",
+    "start": "2026-10-23",
+    "end": "2026-10-31",
+    "final": true
+   }
+  ]
+ },
+ "kraken": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Stanley Cup Playoffs, first round",
+    "start": "2027-04-12",
+    "end": "2027-04-30",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-05-01",
+    "end": "2027-05-15",
+    "tbd": true
+   },
+   {
+    "name": "Conference Final",
+    "start": "2027-05-16",
+    "end": "2027-06-01",
+    "tbd": true
+   },
+   {
+    "name": "Stanley Cup Final",
+    "start": "2027-06-03",
+    "end": "2027-06-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}

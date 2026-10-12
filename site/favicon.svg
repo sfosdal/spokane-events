@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the Riverfront Park clock tower (the Great Northern depot's, 1902) in the city flower's lilac -->
+  <polygon points="16,3 10.5,8.5 21.5,8.5" fill="#c9a6e3"/>
+  <rect x="11.5" y="8.5" width="9" height="20.5" fill="#e6d4f3"/>
+  <rect x="11.5" y="8.5" width="9" height="1.6" fill="#9b6fc3"/>
+  <circle cx="16" cy="14.5" r="3.2" fill="#1b2733"/>
+  <circle cx="16" cy="14.5" r="2.4" fill="#f7f1fb"/>
+  <path d="M16 14.5V12.6M16 14.5l1.4 .9" stroke="#1b2733" stroke-width=".9" stroke-linecap="round"/>
+  <rect x="14.6" y="21" width="2.8" height="8" rx=".6" fill="#9b6fc3"/>
+  <rect x="12.6" y="19" width="1.6" height="2.4" fill="#9b6fc3"/>
+  <rect x="17.8" y="19" width="1.6" height="2.4" fill="#9b6fc3"/>
+</svg>
