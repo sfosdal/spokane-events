@@ -63,7 +63,7 @@
     // the NBA only (schedules.mjs espn()); once lqa extends that to
     // mens-college-basketball, drop the flag and the tab appears.
     { slug: 'gonzaga', label: 'Zags', name: 'Gonzaga', re: /gonzaga|\bzags\b/i, sport: 'basketball', venue: 'McCarthey Athletic Center', colors: ['#041e42', '#c8102e'],
-      espn: { sport: 'basketball', league: 'mens-college-basketball', id: '2250' }, season: { kind: 'espn' }, form: { kind: 'espn' }, strip: false,
+      espn: { sport: 'basketball', league: 'mens-college-basketball', id: '2250' }, season: { kind: 'espn' }, form: { kind: 'espn' },
       inject: { url: 'https://gozags.com/tickets', name: 'Gonzaga' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png', schedule: 'https://gozags.com/sports/mens-basketball/schedule',
       club: 'Gonzaga Bulldogs', opens: 'November', wiki: { title: "Gonzaga Bulldogs men's basketball", club: true } },
