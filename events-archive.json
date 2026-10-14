@@ -978,6 +978,30 @@
    "time": "19:00:00",
    "url": "https://northernquest.evenue.net/events/080726",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Spokane Chiefs vs. Everett Silvertips",
+   "date": "2026-10-13",
+   "time": "19:05:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Paul Cauthen",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/paul-cauthen-spokane-washington-10-13-2026/event/1E0064D8C1BADF07",
+   "type": "concert"
   }
  ]
 }
