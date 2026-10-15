@@ -1002,6 +1002,14 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/paul-cauthen-spokane-washington-10-13-2026/event/1E0064D8C1BADF07",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
   }
  ]
 }
