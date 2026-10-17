@@ -1026,6 +1026,30 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/ray-volpe-volpetron-eternal-knitting-factory-spokane-tickets/14228174",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "Spokane Tribe Casino",
+   "title": "Slaughter",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://spokanetribecasino.com/spokane-live/",
+   "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "The Taylor Party: Taylor Swift Night",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/the-taylorpartytaylorswift-night-knitting-factory-spokane-tickets/14247684",
+   "type": "concert"
   }
  ]
 }
