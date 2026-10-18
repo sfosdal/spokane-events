@@ -1050,6 +1050,81 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/the-taylorpartytaylorswift-night-knitting-factory-spokane-tickets/14247684",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "Roos Field",
+   "title": "Eastern Washington Eagles Football vs. Montana State Bobcats Football",
+   "date": "2026-10-17",
+   "time": "16:00:00",
+   "url": "https://goeags.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+",
+     "Scripps Sports"
+    ]
+   }
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Monster Jam",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Velocity FC vs. Chattanooga Red Wolves SC",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.onespokanestadium.com/events",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Fox Theater",
+   "title": "Chelsea Handler: The High And Mighty Tour",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://secure.foxtheaterspokane.org/1544/1671",
+   "type": "arts"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Gary Clark Jr.",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/gary-clark-jr-spokane-washington-10-17-2026/event/1E0064BB29591232",
+   "type": "concert"
+  },
+  {
+   "venue": "Spokane Tribe Casino",
+   "title": "DJ Pauly D (18 and Over)",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://spokanetribecasino.com/spokane-live/",
+   "type": "concert"
   }
  ]
 }
