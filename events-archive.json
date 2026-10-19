@@ -1125,6 +1125,22 @@
    "time": "20:00:00",
    "url": "https://spokanetribecasino.com/spokane-live/",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-18",
+   "time": "13:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "& Juliet (Touring)",
+   "date": "2026-10-18",
+   "time": "18:30:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
   }
  ]
 }
