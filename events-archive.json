@@ -1149,6 +1149,14 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/demon-hunter-storm-the-gates-of-spokane-washington-10-19-2026/event/1E0064F4C58CCBC2",
    "type": "concert"
+  },
+  {
+   "venue": "Bing Crosby Theater",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://bingcrosbytheater.evenue.net/events/BCTDS",
+   "type": "arts"
   }
  ]
 }
