@@ -177,9 +177,9 @@
       type: 'arts',
       cssVar: '--v-bing',
       color: '#86ea94',
-      url: 'https://bingcrosbytheater.com/events/',
+      url: 'https://bingcrosbytheater.com/calendar',
       icon: 'https://www.google.com/s2/favicons?domain=bingcrosbytheater.com&sz=128',
-      tm: { id: 'KovZ917A2d7', match: 'bing crosby', fallbackUrl: 'https://bingcrosbytheater.com/events/' },
+      tm: { id: 'KovZ917A2d7', match: 'bing crosby', fallbackUrl: 'https://bingcrosbytheater.com/calendar' },
       alias: /bing crosby/i,
     },
     'Riverfront Park': { // the Expo '74 grounds — the Pavilion's summer concerts, the skate ribbon, the clock tower
