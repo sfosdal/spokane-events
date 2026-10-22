@@ -1157,6 +1157,21 @@
    "time": "19:00:00",
    "url": "https://bingcrosbytheater.evenue.net/events/BCTDS",
    "type": "arts"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "2026 Inland Northwest Sports Hall of Fame Induction",
+   "date": "2026-10-21",
+   "time": "16:00:00",
+   "url": "https://www.spokanearena.com/events"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Charles Wesley Godwin - Christian Name Tour",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/charles-wesley-godwin-knitting-factory-spokane-tickets/14917563",
+   "type": "concert"
   }
  ]
 }
