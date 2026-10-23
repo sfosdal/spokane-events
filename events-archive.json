@@ -1172,6 +1172,20 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/charles-wesley-godwin-knitting-factory-spokane-tickets/14917563",
    "type": "concert"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Girls Soccer - Pullman vs Rogers",
+   "date": "2026-10-22",
+   "time": "16:00:00",
+   "url": "https://www.onespokanestadium.com/events"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Football - Cheney vs Shadle Park",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.onespokanestadium.com/events"
   }
  ]
 }
