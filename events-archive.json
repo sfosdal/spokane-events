@@ -1186,6 +1186,36 @@
    "date": "2026-10-22",
    "time": "19:00:00",
    "url": "https://www.onespokanestadium.com/events"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Football - University vs Ferris",
+   "date": "2026-10-23",
+   "time": "16:30:00",
+   "url": "https://www.onespokanestadium.com/events"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Spokane Chiefs vs. Portland Winterhawks",
+   "date": "2026-10-23",
+   "time": "19:05:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Football - Mead vs Lewis & Clark",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.onespokanestadium.com/events"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Emo Nite",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/emo-nite-spokane-washington-10-23-2026/event/1E00651CA9F998B6",
+   "type": "concert"
   }
  ]
 }
