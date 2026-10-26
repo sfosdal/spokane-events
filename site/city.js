@@ -123,6 +123,7 @@
   var VENUES = {
     // --- Downtown and the Arena: the city's big rooms, the theatres, the stadium, the park ---
     'Spokane Arena': { // Numerica Veterans Arena on Ticketmaster since 2025 (Spokane Veterans Memorial Arena before); the city still says the Arena
+      geo: [47.66609, -117.42275],
       capacity: 12210,
       type: 'concert',
       cssVar: '--v-arena',
@@ -133,6 +134,7 @@
       alias: /numerica|veterans (memorial )?arena|spokane arena/i,
     },
     'ONE Spokane Stadium': {
+      geo: [47.66742, -117.41917],
       capacity: 5000,
       type: 'sports',
       cssVar: '--v-onestadium',
@@ -143,6 +145,7 @@
       alias: /one spokane stadium/i,
     },
     'First Interstate Center for the Arts': { // the INB Performing Arts Center until 2019 — Broadway, the big comedians
+      geo: [47.66059, -117.41724],
       capacity: 2700,
       type: 'arts',
       cssVar: '--v-fica',
@@ -153,6 +156,7 @@
       alias: /first interstate cent|inb performing arts/i,
     },
     'Spokane Convention Center': {
+      geo: [47.66098, -117.41258],
       capacity: 2000,
       type: 'community',
       cssVar: '--v-convention',
@@ -163,6 +167,7 @@
       alias: /spokane convention/i,
     },
     'The Fox Theater': { // Martin Woldson Theater at the Fox, the Spokane Symphony's hall
+      geo: [47.65709, -117.42673],
       capacity: 1600,
       type: 'arts',
       cssVar: '--v-fox',
@@ -173,6 +178,7 @@
       alias: /woldson|fox theat/i,
     },
     'Bing Crosby Theater': {
+      geo: [47.65698, -117.42539],
       capacity: 750,
       type: 'arts',
       cssVar: '--v-bing',
@@ -183,6 +189,7 @@
       alias: /bing crosby/i,
     },
     'Riverfront Park': { // the Expo '74 grounds — the Pavilion's summer concerts, the skate ribbon, the clock tower
+      geo: [47.6617, -117.41991],
       capacity: 5000,
       type: 'community',
       cssVar: '--v-riverfront',
@@ -193,6 +200,7 @@
       alias: /riverfront park|spokane pavilion|pavilion at riverfront/i,
     },
     'McCarthey Athletic Center': { // the Kennel — Gonzaga basketball; Ticketmaster lists nothing here, the games come from ESPN
+      geo: [47.66539, -117.39912],
       capacity: 6000,
       type: 'sports',
       cssVar: '--v-mccarthey',
@@ -204,6 +212,7 @@
     },
     // --- Music rooms and around: downtown's club, the casinos in Airway Heights, the ballpark, Cheney, the fairgrounds ---
     'Knitting Factory': {
+      geo: [47.65698, -117.426],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -215,6 +224,7 @@
       alias: /knitting factory/i,
     },
     'Northern Quest': { // the resort's Pend Oreille Pavilion indoors and BECU Live outdoors in summer — two Ticketmaster venues
+      geo: [47.65903, -117.5629],
       area: 'town',
       capacity: 5000,
       type: 'concert',
@@ -226,6 +236,7 @@
       alias: /northern quest|becu live/i,
     },
     'Spokane Tribe Casino': { // Spokane Live, the casino's showroom
+      geo: [47.64559, -117.60843],
       area: 'town',
       capacity: 2500,
       type: 'concert',
@@ -237,6 +248,7 @@
       alias: /spokane tribe|spokane live/i,
     },
     'Avista Stadium': { // the Indians' ballpark, at the fairgrounds in the Valley
+      geo: [47.66141, -117.34457],
       area: 'town',
       capacity: 6803,
       type: 'sports',
@@ -248,6 +260,7 @@
       alias: /avista stadium/i,
     },
     'Roos Field': { // Eastern Washington's red turf, Cheney
+      geo: [47.49266, -117.58805],
       area: 'town',
       capacity: 8600,
       type: 'sports',
@@ -259,6 +272,7 @@
       alias: /roos field/i,
     },
     'Spokane County Fair & Expo Center': {
+      geo: [47.66329, -117.34677],
       area: 'town',
       capacity: 5000,
       type: 'community',
@@ -320,6 +334,21 @@
     ics: { name: 'Spokane Events', short: 'Spokane Events', teams: 'Spokane home teams — every season', prodid: '-//here.events//spokane-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Spokane\\, WA — the Arena\\, First Interstate Center for the Arts\\, the Fox\\, Avista Stadium and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — Steve, 2026-10-25
+      kind: 'urban',
+      bbox: [47.45, -117.72, 47.75, -117.05], // south, west, north, east — Spokane and its valley — Airway Heights and Cheney to the west, Liberty Lake to the east
+      home: [47.645, -117.45, 47.68, -117.38], // the view at first; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Spokane', lat: 47.6572, lon: -117.4235, anchor: 'end' },
+        { name: 'Spokane Valley', lat: 47.6571, lon: -117.2614, anchor: 'start' },
+        { name: 'Airway Heights', lat: 47.6446, lon: -117.5933, anchor: 'end' },
+        { name: 'Cheney', lat: 47.4892, lon: -117.5793, anchor: 'start' },
+        { name: 'Liberty Lake', lat: 47.6681, lon: -117.1049, anchor: 'start' },
+        { name: 'Spokane River', lat: 47.69, lon: -117.52, kind: 'water', anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
