@@ -24,6 +24,7 @@ import { fixLinks } from './links.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs'; // TEAMS keeps slug/label/re only; the inject loop reads CITY.teams
+import { tmFetch } from './tm-fetch.mjs';
 
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
 const ICS_OUT = new URL('../site/events.ics', import.meta.url);
@@ -99,7 +100,7 @@ async function tmPages(params, label) {
     let res;
     for (let attempt = 0; ; attempt++) {
       await new Promise((r) => setTimeout(r, TM_PACE_MS));
-      res = await fetch(`https://app.ticketmaster.com/discovery/v2/events.json?${q}`);
+      res = await tmFetch(`https://app.ticketmaster.com/discovery/v2/events.json?${q}`);
       if (res.status !== 429 || attempt >= 2) break;
       const wait = Math.max(5, Number(res.headers.get('retry-after')) || 60);
       console.error(`Ticketmaster ${label} page ${page} HTTP 429 — waiting ${wait} s`);
