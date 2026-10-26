@@ -316,10 +316,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Spokane', // the board drops it from the clubs' names ("Spokane Chiefs" → Chiefs)
-    presetDefault: 'Every room — the Arena, the stadiums, the theatres, the casinos and the music rooms — every team and type',
+    presetDefault: 'Every venue — the Arena, the stadiums, the theatres, the casinos and the music venues — every team and type',
     presetNeighborhood: 'Downtown and the Arena only',
     presetBig: 'Only the places that hold 2,000 or more — the Arena, the stadiums, the casinos and the big theatres',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the Arena only.', big: 'Showing the big rooms only — the Arena, the stadiums, the casinos and the big theatres.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the Arena only.', big: 'Showing the big venues only — the Arena, the stadiums, the casinos and the big theatres.' },
   };
 
   global.LQACity = {
