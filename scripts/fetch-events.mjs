@@ -24,7 +24,7 @@ import { fixLinks } from './links.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs'; // TEAMS keeps slug/label/re only; the inject loop reads CITY.teams
-import { tmFetch } from './tm-fetch.mjs';
+import { tmFetch, tmFailed, keepFailedVenues } from './tm-fetch.mjs';
 import { feedSources, emptyListGate } from './feeds.mjs';
 
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
@@ -107,7 +107,7 @@ async function tmPages(params, label) {
       console.error(`Ticketmaster ${label} page ${page} HTTP 429 — waiting ${wait} s`);
       await new Promise((r) => setTimeout(r, wait * 1000));
     }
-    if (!res.ok) { console.error(`Ticketmaster ${label} page ${page} HTTP ${res.status}`); break; }
+    if (!res.ok) throw tmFailed(label, res); // every retry spent (tm-fetch.mjs): the venue keeps its previous rows, not an empty or half list
     const data = await res.json();
     all.push(...(data?._embedded?.events || []));
     if (page + 1 >= (data?.page?.totalPages || 1)) break;
@@ -230,7 +230,7 @@ if (branchArchive === null) console.error('Archive branch unreadable — buildin
 const archived = unionArchives(liveArchive || [], branchArchive || []);
 console.log(`Archive: ${(liveArchive || []).length} events in the live feed, ${(branchArchive || []).length} on the archive branch, ${archived.length} in the union`);
 
-const merged = mergeWithArchive(fresh, archived, today, cutoff).slice(-MAX_EVENTS);
+const merged = mergeWithArchive(fresh.concat(keepFailedVenues(archived, fresh, today)), archived, today, cutoff).slice(-MAX_EVENTS);
 
 // League schedules flag floating dates Ticketmaster doesn't know yet, and
 // the full seasons (home and away) feed the site's Teams view
