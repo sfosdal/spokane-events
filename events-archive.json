@@ -1262,6 +1262,20 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/pouya-spokane-washington-10-28-2026/event/1E0064C8EDA2CF1A",
    "type": "concert"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Football - Pullman vs North Central",
+   "date": "2026-10-29",
+   "time": "16:30:00",
+   "url": "https://www.onespokanestadium.com/events"
+  },
+  {
+   "venue": "ONE Spokane Stadium",
+   "title": "Spokane Public Schools Football - Gonzaga Prep vs Lewis & Clark",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.onespokanestadium.com/events"
   }
  ]
 }
