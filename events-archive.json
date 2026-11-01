@@ -1291,6 +1291,36 @@
    "time": "19:05:00",
    "url": "https://www.spokanearena.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "Roos Field",
+   "title": "Eastern Washington Eagles Football vs. Montana Grizzlies Football",
+   "date": "2026-10-31",
+   "time": "13:00:00",
+   "url": "https://goeags.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+",
+     "Scripps Sports"
+    ]
+   }
+  },
+  {
+   "venue": "The Fox Theater",
+   "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://secure.foxtheaterspokane.org/1544/1545",
+   "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "It's A 2000s (Halloween) Party: Spokane (10/31)",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/its-a-2000s-halloween-party-knitting-factory-spokane-tickets/14295784",
+   "type": "concert"
   }
  ]
 }
