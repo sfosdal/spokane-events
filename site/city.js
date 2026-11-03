@@ -336,6 +336,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — Steve, 2026-10-25
       kind: 'urban',
+      boundary: { osm: 237599 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Spokane
       bbox: [47.45, -117.72, 47.75, -117.05], // south, west, north, east — Spokane and its valley — Airway Heights and Cheney to the west, Liberty Lake to the east
       home: [47.645, -117.45, 47.68, -117.38], // the view at first; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
