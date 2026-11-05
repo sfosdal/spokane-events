@@ -1342,6 +1342,14 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/rival-sons-domestic-bliss-tour-spokane-washington-11-02-2026/event/1E0064D0E442D51D",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "Tauren Wells",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "concert"
   }
  ]
 }
