@@ -1350,6 +1350,22 @@
    "time": "19:00:00",
    "url": "https://firstinterstatecenter.org/events/upcoming-events/",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "Jo Koy (minimum age for the event is 12 years old)",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Daily Bread - Vanishing Point Tour",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/daily-bread-vanishing-knitting-factory-spokane-tickets/14243144",
+   "type": "concert"
   }
  ]
 }
