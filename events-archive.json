@@ -1366,6 +1366,37 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/daily-bread-vanishing-knitting-factory-spokane-tickets/14243144",
    "type": "concert"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "http://www.spokanearena.com/"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "Beck",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://ticketswestinw.evenue.net/events/FICBECK",
+   "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Isaiah Rashad: Lil Sunny's Awful Road Trip",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-spokane-washington-11-06-2026/event/1E00652892FE3F22",
+   "type": "concert"
+  },
+  {
+   "venue": "Spokane Tribe Casino",
+   "title": "Felipe Esparza",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://spokanetribecasino.com/spokane-live/",
+   "type": "arts"
   }
  ]
 }
