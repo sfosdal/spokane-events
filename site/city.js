@@ -140,7 +140,6 @@
       cssVar: '--v-onestadium',
       color: '#eab086',
       url: 'https://www.onespokanestadium.com/events',
-      icon: 'marks/venues/onespokanestadium.com.png',
       tm: { id: 'KovZ917ARuj', match: 'one spokane', fallbackUrl: 'https://www.onespokanestadium.com/events', exclude: /parking/i },
       alias: /one spokane stadium/i,
     },
