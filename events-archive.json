@@ -1451,6 +1451,20 @@
    "time": "21:00:00",
    "url": "https://www.northernquest.com",
    "type": "arts"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Disney On Ice presents Jump In - (Age 2 and older must have a ticket to enter arena; Costumes not permitted for guests 14 years and older)",
+   "date": "2026-11-08",
+   "time": "15:00:00",
+   "url": "http://www.spokanearena.com/"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "Outlander in Concert",
+   "date": "2026-11-08",
+   "time": "18:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/"
   }
  ]
 }
