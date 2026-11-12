@@ -980,6 +980,17 @@
    "type": "concert"
   },
   {
+   "venue": "Knitting Factory",
+   "title": "Paula Cole This Fire: 30",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/paula-cole-this-fire-30-spokane-washington-10-11-2026/event/1E006445D8129BF8",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-12T20:51:07.214Z"
+  },
+  {
    "venue": "First Interstate Center for the Arts",
    "title": "& Juliet (Touring)",
    "date": "2026-10-13",
@@ -1481,6 +1492,14 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/nekrogoblikon-spokane-washington-11-10-2026/event/1E0064C8EC6BCDED",
    "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "World Ballet Company: Swan Lake",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/",
+   "type": "arts"
   }
  ]
 }
