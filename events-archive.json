@@ -1500,6 +1500,15 @@
    "time": "19:00:00",
    "url": "https://firstinterstatecenter.org/events/upcoming-events/",
    "type": "arts"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Joanne Shaw Taylor",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/joanne-shaw-taylor-spokane-washington-11-12-2026/event/1E0064BB70103EB9",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
