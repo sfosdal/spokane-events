@@ -1509,6 +1509,14 @@
    "url": "https://www.ticketmaster.com/joanne-shaw-taylor-spokane-washington-11-12-2026/event/1E0064BB70103EB9",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Spokane Chiefs vs. Everett Silvertips",
+   "date": "2026-11-13",
+   "time": "19:05:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
   }
  ]
 }
