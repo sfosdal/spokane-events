@@ -1517,6 +1517,28 @@
    "time": "19:05:00",
    "url": "https://www.spokanearena.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "The Music Man (Touring) - Age Recommendation: 6 and Over",
+   "date": "2026-11-14",
+   "time": "14:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Foy Vance World Tour | 2026 & 2027",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/foy-vance-world-tour-2026-2027-spokane-washington-11-14-2026/event/1E006451AC27A6F8",
+   "type": "concert"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "The Music Man (Touring) - Age Recommendation: 6 and Over",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/"
   }
  ]
 }
