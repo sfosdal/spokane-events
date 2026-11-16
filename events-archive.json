@@ -1539,6 +1539,36 @@
    "date": "2026-11-14",
    "time": "19:30:00",
    "url": "https://firstinterstatecenter.org/events/upcoming-events/"
+  },
+  {
+   "venue": "First Interstate Center for the Arts",
+   "title": "The Music Man (Touring) - Age Recommendation: 6 and Over",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://firstinterstatecenter.org/events/upcoming-events/"
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Three Days Grace - Alienation Tour ",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://ticketswestinw.evenue.net/events/ARNTDG",
+   "type": "concert"
+  },
+  {
+   "venue": "Spokane Convention Center",
+   "title": "Eva Schneider - An 11 Year Old in Auschwitz",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.spokanecenter.com/events"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Shwayze - The Nostalgia Tour  with Asher Roth and Chiddy Bang",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/shwayze-the-nostalgia-tour-with-asher-spokane-washington-11-15-2026/event/1E006504F2B461AE",
+   "type": "concert"
   }
  ]
 }
