@@ -1569,6 +1569,33 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/shwayze-the-nostalgia-tour-with-asher-spokane-washington-11-15-2026/event/1E006504F2B461AE",
    "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "Silverstein & Story Of The Year: Camp Screamo Tour",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/silverstein-story-of-the-year-camp-spokane-washington-11-17-2026/event/1E0064F7B18DCB4E",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:27:18.120Z",
+    "from": 48.5
+   }
+  },
+  {
+   "venue": "McCarthey Athletic Center",
+   "title": "Gonzaga vs Montana State Bobcats",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://gozags.com/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBSSN"
+    ]
+   }
   }
  ]
 }
