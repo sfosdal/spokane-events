@@ -1596,6 +1596,36 @@
      "CBSSN"
     ]
    }
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Spokane Chiefs vs. Victoria Royals",
+   "date": "2026-11-20",
+   "time": "19:05:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Fox Theater",
+   "title": "Straight No Chaser",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://secure.foxtheaterspokane.org/1544/1732",
+   "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "INZO Local Void Takeover",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/inzo-local-void-takeover-knitting-factory-spokane-tickets/15040843",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:14:00.931Z",
+    "from": 43.67
+   }
   }
  ]
 }
