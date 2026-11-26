@@ -1708,6 +1708,28 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/gwar-spokane-washington-11-24-2026/event/1E006495DB7AD4B2",
    "type": "concert"
+  },
+  {
+   "venue": "Knitting Factory",
+   "title": "  ThanksGiving ThrowDown, Small Town Nation, Nothing Shameful, Millergold, Paloma, Backstxp",
+   "date": "2026-11-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/-thanksgiving-throwdown-small-knitting-factory-spokane-tickets/15020323",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:09:05.458Z",
+    "from": 0
+   }
+  },
+  {
+   "venue": "Spokane Arena",
+   "title": "Spokane Chiefs vs. Kelowna Rockets",
+   "date": "2026-11-25",
+   "time": "19:05:00",
+   "url": "https://www.spokanearena.com/events",
+   "type": "sports"
   }
  ]
 }
